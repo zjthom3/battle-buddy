@@ -11,8 +11,20 @@ accomplishments into the language the reader actually scores.
 
 ### The move: outcome + scale + skill, minus the jargon
 
-A performance-report bullet (EPR/OPR/NCOER) is built to impress a promotion board. A résumé bullet
-is built to answer "what will you do for us?" Transform each one:
+A performance-report bullet is built to impress a promotion board. A résumé bullet is built to
+answer "what will you do for us?" First, **recognize the person's branch document** so you speak
+their language back to them — the method below is identical across all of them, but the name isn't:
+
+| Branch | Enlisted eval | Officer eval | Notes |
+|---|---|---|---|
+| Army | **NCOER** | **OER** | "Soldiers," MOS |
+| Air Force | **EPR** | **OPR** | "Airmen," AFSC |
+| Space Force | **EPR/OPR** (AF-derived) | **OPR** | "Guardians," USSF codes |
+| Navy | **EVAL** | **FITREP** | "Sailors," rating + NEC |
+| Marine Corps | **FITREP** (ProCon marks) | **FITREP** | "Marines," MOS |
+| Coast Guard | **EVAL** | **OER** | "Coasties," rating; under DHS |
+
+Don't hand someone another branch's example. Then transform each bullet:
 
 1. **Strip the acronyms.** Every MOS, AFSC, system name, and program code gets a plain-English
    equivalent. If a civilian can't picture it, translate it.
@@ -23,11 +35,25 @@ is built to answer "what will you do for us?" Transform each one:
 4. **Name the transferable skill.** Leadership, logistics, operations, security, maintenance,
    analysis, training, project management.
 
-**Pattern:**
+**Pattern (Air Force EPR):**
 > *Military:* "Supervised 1A8 mission-crew operations for [system], maintained full [readiness
 > metric] across [n] sorties."
 > *Civilian:* "Led a X-person technical team delivering real-time signals analysis; sustained
 > full operational readiness across N high-stakes missions with zero critical failures."
+
+**Pattern (Army NCOER):**
+> *Military:* "Supervised 12 Soldiers in daily motor-pool operations; maintained 98% equipment
+> readiness."
+> *Civilian:* "Led a 12-person maintenance team responsible for a vehicle fleet; sustained 98%
+> operational readiness through disciplined preventive-maintenance scheduling."
+
+**Pattern (Navy EVAL):**
+> *Military:* "Watch supervisor for shipboard network operations; zero security incidents across
+> deployment."
+> *Civilian:* "Shift lead for 24/7 network operations; maintained zero security incidents across a
+> [n]-month operational period."
+
+Same four moves every time — the branch just changes the words you're translating *from*.
 
 ### Rank & awards
 

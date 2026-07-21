@@ -14,8 +14,12 @@ an interview and a reference check.
 
 ## Inputs it handles
 
-- Performance-report bullets (EPR / OPR / NCOER)
-- A job code (MOS / AFSC / rating / NEC) + what it actually did
+- Performance-report bullets from **any branch** — NCOER/OER (Army), EPR/OPR (Air Force & Space
+  Force), EVAL/FITREP (Navy & Coast Guard), FITREP/ProCon (Marine Corps)
+- A job code from **any branch** — MOS (Army/Marines), AFSC (Air Force), USSF specialty code
+  (Space Force), rating + NEC (Navy), rating (Coast Guard), or an officer designator — plus what
+  it actually did. (Recognize the branch's system; decode the code's *shape*, not catalog specifics
+  from memory — see `references/branches-and-jobs.md`.)
 - An award citation
 - A whole role or career, for a résumé/LinkedIn pass
 - **Reverse:** a pasted civilian job posting
