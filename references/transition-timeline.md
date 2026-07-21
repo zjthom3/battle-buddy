@@ -9,6 +9,10 @@ Transition is the highest-stakes stretch, because several benefit windows are **
 some doors close for good once you're out. The move is to work backward from your separation date
 and hit each milestone early, not on the last day.
 
+> **Guard / Reserve?** This timeline assumes an active-duty separation. If the person is demobilizing
+> or leaving a Guard/Reserve component, the milestones, documents (NGB-22 vs DD-214), and benefit
+> windows can differ — read `references/guard-reserve.md` first and verify each window live.
+
 ## The milestones (roughly in order, working toward your date)
 
 - **TAP — Transition Assistance Program.** Congressionally required; start it as early as your

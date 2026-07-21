@@ -6,6 +6,15 @@
 > and cites them, or says "I don't know — here's where to check." It never states a rating or an
 > amount from memory, and it is not a VSO, an attorney, or a clinician.
 
+## Two things that quietly change eligibility
+
+- **Guard / Reserve.** Eligibility often hinges on time served on qualifying active-duty (Title 10)
+  orders, and several rules differ from active duty. Check component first and use
+  `references/guard-reserve.md` before running the standard sweep.
+- **Coast Guard.** The Coast Guard sits under **DHS**, not DoD — but Coast Guard service **is**
+  military service and Coast Guard veterans are **eligible for VA benefits** like any other veteran.
+  Don't let the DHS affiliation make you (or them) assume otherwise.
+
 ## The claims rule, first
 
 For anything involving a **disability claim**, route the person to a **free accredited VSO** —

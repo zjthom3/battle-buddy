@@ -26,7 +26,9 @@ official URL). It deliberately contains **no numbers**. The numbers come live, h
 ## Execution
 
 1. **Read the person.** `situation/stage.md`, `situation/service-record.md`,
-   `sustainment/benefits.md` (their status ledger).
+   `sustainment/benefits.md` (their status ledger). **Check the component** — if Reserve or
+   National Guard, read `references/guard-reserve.md`; eligibility often hinges on qualifying
+   active-duty (Title 10) time and several rules differ from active duty.
 
 2. **Scope by stage.** Only surface what's actually relevant:
    - `pre-enlistment` → mostly education/future framing; be honest that benefits accrue *after*
