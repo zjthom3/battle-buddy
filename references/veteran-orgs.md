@@ -22,14 +22,15 @@ trained to do it right. Use one.
 - **FourBlock** — career-readiness program: https://www.fourblock.org
 - **American Corporate Partners (ACP)** — free 1:1 year-long mentorship:
   https://www.acp-usa.org
-- **Veterati** — free on-demand mentorship calls: https://www.veterati.com
+- **Post-Veterati** — free on-demand mentorship calls (the successor to Veterati, which shut
+  down): https://www.post-veterati.org
 - **O2O / Onward to Opportunity (Syracuse IVMF)** — free career training:
   https://ivmf.syracuse.edu
 
 ## Transition & entrepreneurship
 
 - **DoD SkillBridge** — civilian internship in your final stretch: https://skillbridge.osd.mil
-- **SBA — Boots to Business** (veteran entrepreneurship): https://www.sba.gov/boots-to-business
+- **SBA — Boots to Business** (veteran entrepreneurship): https://www.sba.gov/sba-learning-platform/boots-business
 - **VBOC (Veterans Business Outreach Centers):** https://www.sba.gov/local-assistance
 
 ## Wellness & peer connection

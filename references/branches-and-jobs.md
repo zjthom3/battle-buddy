@@ -21,7 +21,7 @@ seniority and specialization straight off it.
 | **Air Force** | AFSC (Air Force Specialty Code) | Letters/numbers encoding field, specialty, and skill level | https://www.airforce.com/careers |
 | **Space Force** | USSF specialty codes | Adapted from the AFSC structure | https://www.spaceforce.com/careers |
 | **Navy** | Rating (job) + NEC (Navy Enlisted Classification) | Rating abbreviation + numeric NEC for sub-specialties | https://www.navy.com/careers |
-| **Marine Corps** | MOS | Four-digit code (occupational field + specialty) | https://www.marines.com/being-a-marine/roles.html |
+| **Marine Corps** | MOS | Four-digit code (occupational field + specialty) | https://www.marines.com/mission/roles |
 | **Coast Guard** | Rating | Rating abbreviation | https://www.gocoastguard.com |
 
 *(Officer career fields use parallel but separate designators — same idea, different catalog. Ask
