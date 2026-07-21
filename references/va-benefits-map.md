@@ -36,4 +36,20 @@ does not predict a rating.
 - The "transfer GI Bill to dependents" line is a classic thing veterans miss because the window to
   set it up is usually **while still serving** — worth flagging early for `in-service` users.
 
+## If the veteran lives outside the US
+
+Some veterans live abroad — this changes *access*, not always *eligibility*, and it's easy to
+wrongly assume "I moved, so I lost it." Do not assume either way; verify each against the official
+page and cite it:
+
+- **Disability compensation** is generally payable to eligible veterans regardless of where they
+  live. (Verify: https://www.va.gov/disability/)
+- **VA health care abroad** runs through the **Foreign Medical Program** for service-connected
+  conditions, not normal enrollment. (https://www.va.gov/COMMUNITYCARE/programs/veterans/fmp/)
+- **GI Bill at a foreign school** can work if the school/program is VA-approved. (Verify via the
+  GI Bill Comparison Tool: https://www.va.gov/education/gi-bill-comparison-tool/)
+- **VA home loan** applies to homes in the US and its territories — not foreign property.
+
+Flag this whenever `situation/ground-truth.md` says the person is based outside the US.
+
 **The master hub for everything:** https://www.va.gov
