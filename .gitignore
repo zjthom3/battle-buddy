@@ -7,6 +7,13 @@
 .env
 .env.*
 
+# Maintainer's local test harness — kept out of the repo so it doesn't ship in
+# user clones. The behavioral eval suite lives in evals/ on the maintainer's
+# working copy (run it with the workflow runner), but users cloning Battle Buddy
+# don't need it and shouldn't see it. Keep your local evals/ folder; it just
+# won't be tracked or pushed.
+evals/
+
 # Note on privacy: the situation/, mission/, sustainment/, and comms/ files
 # ship as BLANK templates and are tracked on purpose so the structure is
 # visible when you clone. Once /onboard fills them with your real service
