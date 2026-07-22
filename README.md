@@ -50,17 +50,184 @@ goals, your people. **That stays on your machine.** If you ever push your copy s
 scrub the `situation/`, `mission/`, `sustainment/`, and `comms/` folders first. It never asks for
 your SSN, DoD ID, or anything OPSEC-sensitive.
 
-## Quick start
+## Start here — never done this before?
 
-1. **Install Claude Code** (`claude.com/claude-code`) — one-time setup. New to the terminal?
-   That's expected; the setup is the part a human can walk you through.
-2. **Clone this repo** and open it in Claude Code.
-3. **Run `/onboard`.** It asks where you are on the journey first, then a handful of questions,
-   and sets the system up around you. ~10 minutes.
-4. **Run `/next-move`.** That's the one you'll come back to. It gives you your single most
-   important next action, ready to act on.
+If you've never installed a tool like this or opened a terminal, you're in the right place. This
+walkthrough assumes zero experience. Take it one step at a time; it's about 15 minutes end to end,
+and you can stop and come back.
+
+> **Rather not touch a terminal?** Claude Code also runs as a **[desktop app](https://claude.com/download)**
+> (Mac/Windows/Linux) and on the **[web](https://claude.ai/code)** — same Battle Buddy, no command
+> line. Install one of those and pick up at **Step 2**.
+>
+> New to the terminal but want to learn it? Anthropic has a
+> **[beginner terminal guide](https://code.claude.com/docs/en/terminal-guide)**. And once Claude Code
+> is running, you can just **tell it you're new** — it'll slow down and walk you through anything.
+
+### Step 0 — What you'll need
+
+- A computer (Mac, Windows, or Linux) and about 15 minutes.
+- A **paid Claude plan** — Pro, Max, Team, or Enterprise — **or** a
+  [Claude Console](https://console.anthropic.com/) (pay-as-you-go API) account. Heads up: the **free
+  Claude.ai plan does not include Claude Code.** See [plans](https://claude.com/pricing).
+- **No coding knowledge.** You'll type a couple of setup commands, then everything else is plain
+  English.
+
+### Step 1 — Install Claude Code
+
+Open your Terminal (Mac/Linux) or PowerShell (Windows) and paste **one** line:
+
+```bash
+# macOS / Linux
+curl -fsSL https://claude.ai/install.sh | bash
+```
+
+```powershell
+# Windows (PowerShell)
+irm https://claude.ai/install.ps1 | iex
+```
+
+Prefer clicking to typing? Download links and every other install method are on
+**[claude.com/claude-code](https://claude.com/claude-code)** and the
+**[setup guide](https://code.claude.com/docs/en/setup)**.
+
+To confirm it worked, run `claude --version` — you should see a version number:
+
+```text
+$ claude --version
+2.1.x (Claude Code)
+```
+
+<!-- screenshot: 01-install-version.png -->
+*(screenshot: the version line after install)*
+
+### Step 2 — Get Battle Buddy onto your computer
+
+**If you have git** (or just installed Claude Code, which sets it up for you), paste:
+
+```bash
+git clone https://github.com/zjthom3/battle-buddy.git
+cd battle-buddy
+```
+
+**No git, or not sure?** On this page, click the green **Code** button ▸ **Download ZIP**, then
+unzip it. You'll get a folder called `battle-buddy`. That's your copy.
+
+```text
+battle-buddy/        ← this folder is yours now
+├── README.md
+├── situation/       ← where you are on the journey (fills in during setup)
+├── mission/         ← what you're driving at
+└── ...
+```
+
+<!-- screenshot: 02-repo-folder.png -->
+*(screenshot: the battle-buddy folder / the clone finishing)*
+
+### Step 3 — Open it and log in
+
+From **inside** the `battle-buddy` folder, start Claude Code:
+
+```bash
+claude
+```
+
+The first time, it opens your browser to log in to your Claude account. After that you're in —
+you'll see a prompt showing the model and the folder you're in. Type a `/` to see everything
+Battle Buddy can do.
+
+```text
+ Welcome to Claude Code
+ model: claude-opus-4-8 · cwd: ~/battle-buddy
+
+ > /
+   /onboard      Set up (or re-point) the system. Start here.
+   /next-move    Your single next action, ready to act on.
+   /study-up     Teach the kit your specific job/field.
+   ...
+```
+
+<!-- screenshot: 03-claude-prompt.png -->
+*(screenshot: the Claude Code prompt with the slash-command menu open)*
+
+### Step 4 — Run `/onboard` (the important one)
+
+Type it and press enter:
+
+```text
+> /onboard
+```
+
+It asks **where you are on the journey first** — because a pre-enlistment answer and a veteran
+answer are completely different — then a handful of questions, one at a time. About 10 minutes.
+Everything you tell it is written to files **on your machine and nowhere else.**
+
+```text
+Where are you on the journey right now?
+
+  1. Thinking about enlisting, or in the process
+  2. Currently serving
+  3. Separation or retirement is in sight
+  4. Already out
+
+You: 1
+
+Got it. Who are you out of uniform, and what do you want next?
+```
+
+When it's done, you'll see your setup confirmed and your first move pointed out:
+
+```text
+✓ You're set up. Battle Buddy knows your stage, your record, and what you're driving at.
+
+Now run: /next-move   — I'll give you the one thing to do next, ready to act on.
+Want me to learn your specific field (pipeline, standards, certs)? Run /study-up.
+Any time your situation changes (ship, PCS, reclass, separate), re-run /onboard.
+```
+
+<!-- screenshot: 04-onboard-stage-menu.png -->
+*(screenshot: the four-option stage menu)*
+
+### Step 5 — Run `/next-move`
+
+This is the one you'll come back to. It gives you **one** clear next action — not a to-do list —
+tailored to exactly where you are, with the first step already drafted.
+
+```text
+> /next-move
+
+Your next move: Write down the three questions you still can't answer about your
+top job choice, and bring them to your recruiter this week.
+
+Why it's the one: You're weighing a commitment, and the cheapest thing you can do
+right now is get better information before you sign anything.
+
+Here's the start: I drafted the three questions for you below — read them, cut or
+add as you like...
+```
+
+<!-- screenshot: 05-next-move.png -->
+*(screenshot: a /next-move reply)*
+
+### What to expect going forward
+
+- **Come back to `/next-move`.** It's the daily driver. Most days, that's the only command you need.
+- **Set a rhythm you'll actually keep** — a battle rhythm. `/next-move` daily, a quick review weekly.
+  Small and steady beats ambitious and abandoned.
+- **Re-run `/onboard` whenever your situation changes** — you ship to basic, you PCS, you separate.
+  That's a big deal, and it re-points the whole system around the new you.
+- **Teach it your world with `/study-up`** — your job code, pipeline, certs, community. It researches
+  official sources, confirms with you, and records it (cited) into your own copy.
+- **The guardrails are always on:** if you're in crisis it stops and gets you the Veterans Crisis
+  Line first; it never makes up a benefit number (it pulls the official page and cites it, or hands
+  you the link); it routes claims to a **free** accredited VSO; and your files stay on your machine.
+
+The full menu of commands is just below.
 
 ## What ships
+
+The full set of commands. You met the first three in the walkthrough above; the rest are here when
+you need them.
 
 | Command | What it does |
 |---|---|
