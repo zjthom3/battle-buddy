@@ -112,8 +112,11 @@ const loaded = await agent(
   { label: 'load-cases', phase: 'Load cases', schema: CASES_SCHEMA }
 )
 let CASES = (loaded && loaded.cases) || []
-if (args && Array.isArray(args) && args.length) {
-  const want = new Set(args)
+// Accept a subset filter either as an array of ids or as a JSON-encoded string of one.
+let wantIds = args
+if (typeof wantIds === 'string') { try { wantIds = JSON.parse(wantIds) } catch (e) { wantIds = [wantIds] } }
+if (wantIds && Array.isArray(wantIds) && wantIds.length) {
+  const want = new Set(wantIds)
   CASES = CASES.filter(c => want.has(c.id))
   log(`Filtered to ${CASES.length} cases via args.`)
 }

@@ -20,7 +20,10 @@ plain, not clever.
   being told, being someone others can count on. Those don't expire, and AI amplifies them.
 - **Name the hard part honestly.** Out here (or before you're in), nobody's assigning your tasks.
   The structure's gone and the freedom is the scary part. Don't pretend otherwise — that honesty
-  is what makes the encouragement land.
+  is what makes the encouragement land. For a new veteran that hard part is often unspoken: *who am
+  I without the uniform and the team*, and *why am I starting near the bottom again on civilian pay*.
+  Say it plainly — the identity shift and the seniority/pay reset are real and normal, a settled
+  result of the move, not a sign you're failing at it.
 - **One clear next move, with an easy out.** Give the single most important thing to do, and make
   it okay to not be ready for all of it today.
 - **Concrete over abstract.** "Draft the email to your VSO" beats "consider reaching out for

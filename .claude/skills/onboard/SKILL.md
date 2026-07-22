@@ -33,11 +33,19 @@ Ask: **"Where are you on the journey right now?"**
 3. Separation or retirement is in sight → `transitioning`
 4. Already out → `veteran`
 
-Write it to `situation/stage.md` immediately, with the date. If `transitioning`, ask for the
-**separation/target date** and store it (drives the `/next-move` countdown).
+Write it to `situation/stage.md` immediately, with the date. **Capture the key date** for the stage
+and store it in the `Key date` field (it drives the `/next-move` countdown): `pre-enlistment` → the
+**ship date** if they have one (DEP counts down to it just like transition counts down to
+separation); `transitioning` → the **separation/target date**. Leave blank if there isn't one yet.
 
 If re-running and the stage changed, back up the current `situation/`, `mission/`, `sustainment/`,
 and `comms/` files to `archives/onboard-{YYYY-MM-DD-HHMM}/` before overwriting.
+
+**Plan changed, not just stage?** A washout, reclass, or a pipeline that didn't pan out is a real
+event, not a failure to hide — treat it like a stage change. Back up prior state, re-decode the new
+path, and re-run the interview from where they actually are now. Then `/study-up` on the new field.
+Re-entry after time away (basic, a deployment, a school with no contact) is the same move: if the
+files are stale, welcome them back and re-point the system before serving advice.
 
 ### Step 2 — The interview (branch on stage)
 
@@ -78,7 +86,11 @@ the goal.
 
 In one batch, fill: `situation/*`, `mission/objective.md`, and a first honest line or two in
 `sustainment/benefits.md` (what's untouched) and `sustainment/people.md` (who's already in their
-corner). Leave `comms/battle-rhythm.md` with the starter rhythm.
+corner). Seed `situation/career-field.md` with the plain-English role and job code from the
+interview, and note that `/study-up` will deepen it (pipeline, standards, certs) from official
+sources. Leave `comms/battle-rhythm.md` with the starter rhythm — for a `veteran`, seed the veteran
+cadence (a periodic `/benefits-check` re-sweep, claim-status check-ins, a community touchpoint) so the
+kit still has a reason to be opened after the transition scramble ends.
 
 ### Step 5 — The first win
 
@@ -88,7 +100,8 @@ Close with three lines, not a menu:
 ✓ You're set up. Battle Buddy knows your stage, your record, and what you're driving at.
 
 Now run: /next-move   — I'll give you the one thing to do next, ready to act on.
-Any time your situation changes (ship, PCS, separate), re-run /onboard.
+Want me to learn your specific field (pipeline, standards, certs)? Run /study-up.
+Any time your situation changes (ship, PCS, reclass, separate), re-run /onboard.
 ```
 
 Then, if they run `/next-move`, deliver a genuinely stage-specific first action (see that skill).

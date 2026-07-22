@@ -28,6 +28,10 @@ does not predict a rating.
 |---|---|---|---|
 | **VA health care** | Enrollment in the VA health system | Most who served qualify; enroll to find out | https://www.va.gov/health-care/ |
 | **Disability compensation** | Monthly tax-free payment for service-connected conditions | Anyone with a condition connected to service | https://www.va.gov/disability/ |
+| **PACT Act / presumptive conditions** | Conditions VA presumes are service-connected (e.g. toxic/burn-pit, Agent Orange exposure) — you don't have to prove the link | Vets with qualifying exposure/service | https://www.va.gov/disability/eligibility/hazardous-materials-exposure/ |
+| **PTSD & mental-health claims** | Disability claims for PTSD and other service-connected mental-health conditions | Vets with service-connected mental-health conditions | https://www.va.gov/disability/eligibility/ptsd/ |
+| **CRSC (Combat-Related Special Compensation)** | Restores retired pay offset by VA comp for combat-related disabilities | Eligible retirees with combat-related conditions | https://www.va.gov/ (route via your branch's CRSC office) |
+| **IDES / medical separation (MEB/PEB)** | The medical evaluation path when a condition affects fitness for duty; can set a rating before you separate | Service members referred for a medical board | https://www.va.gov/disability/how-to-file-claim/when-to-file/pre-discharge-claim/ |
 | **GI Bill (Post-9/11 / Ch. 33)** | Education benefit — tuition, housing, books | Qualifying post-9/11 service | https://www.va.gov/education/about-gi-bill-benefits/post-9-11/ |
 | **GI Bill transfer** | Move unused GI Bill to a spouse/child | Service members meeting service/commitment rules (transfer usually happens *while serving*) | https://www.va.gov/education/transfer-post-9-11-gi-bill-benefits/ |
 | **VR&E (Ch. 31 / VetSuccess)** | Career counseling + training for service-connected disability | Veterans with a service-connected disability + employment need | https://www.va.gov/careers-employment/vocational-rehabilitation/ |
