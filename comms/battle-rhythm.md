@@ -1,7 +1,7 @@
 # Battle rhythm — what runs when
 
 *Recurring things, on a schedule you'll actually keep. A battle rhythm beats motivation — you
-don't decide each day, you just run the rhythm. `/level-up` helps you add to this over time.*
+don't decide each day, you just run the rhythm. Add to it over time as your situation changes.*
 
 *See `references/battle-rhythm.md` for how to set one that sticks.*
 
@@ -12,7 +12,6 @@ don't decide each day, you just run the rhythm. `/level-up` helps you add to thi
 ## Weekly
 
 - `[ e.g. /aar on Sunday — what moved, what didn't, what changes ]`
-- `[ e.g. /level-up — find one repetitive task to shortcut ]`
 
 ## Periodic (esp. once you're a veteran)
 

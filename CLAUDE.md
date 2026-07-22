@@ -116,7 +116,6 @@ in, like the tech school they already survived.
 | `/translate` | Military ↔ civilian. Turn your record into résumé/LinkedIn/interview language, or decode a job posting. |
 | `/benefits-check` | What you may be eligible for right now, every line cited to an official source. |
 | `/aar` | An after-action review of your own setup — what's working, what's missing, what to fix. |
-| `/level-up` | Weekly: find one thing you do by hand over and over, and build a shortcut for it. |
 
 ---
 

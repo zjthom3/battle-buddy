@@ -28,8 +28,7 @@ carries you, exactly like a duty schedule did.
 ## A starter rhythm
 
 - **Daily:** `/next-move` → do the one action it names.
-- **Weekly:** `/aar` → what moved, what didn't, what changes. Then `/level-up` → one thing to
-  make easier next week.
+- **Weekly:** `/aar` → what moved, what didn't, what changes next week.
 - **At every milestone or stage change:** re-run `/onboard` so the whole system re-points.
 
 ## When the daily rhythm won't hold (basic, deployment, the field)

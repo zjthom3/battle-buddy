@@ -40,7 +40,7 @@ it's time to re-run `/onboard`.
 - **Setup scoreboard:** five layers, each in place / thin / missing, with the top gap called out.
 - **The AAR:** supposed-to / happened / why / changes — short and honest.
 - **The one fix:** the single highest-leverage thing to close before next review. Hand it to
-  `/next-move` or `/level-up` as the follow-through.
+  `/next-move` as the follow-through.
 
 ## Rules
 
