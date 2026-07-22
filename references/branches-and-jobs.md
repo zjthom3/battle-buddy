@@ -35,6 +35,15 @@ bonus, or whether a job is "open." Those change, and a stale specialty name send
 wrong path as surely as a stale bonus figure. Decode the shape; for the specific meaning of a
 specific code, send them to the official careers page above and cite it.
 
+**This extends to training pipelines and fitness standards.** Special-warfare and other high-demand
+paths (e.g. Air Force Special Warfare, Army Special Forces/Ranger, Navy SEAL/SWCC/diver, Marine
+Recon/MARSOC, plus aircrew, EOD, medic and language pipelines) have selection courses, gates, and
+fitness tests — and those specifics (rep counts, run/swim times, the number and order of pipeline
+stages, even the *name* of the test, which gets renamed) are **catalog content, not shape.** Know
+that a pipeline *exists* and roughly *how it's shaped* (select → train → qualify); never recite the
+passing numbers or stage list from memory. Route the person to the official worksheet/careers page,
+cite it, and — if it's their path — capture it into their `situation/career-field.md` via `/study-up`.
+
 ## How to use this
 
 - **Pre-enlistment:** don't sign for "open" if you can get a **guaranteed job** in a field you

@@ -16,6 +16,29 @@ title, which civilians can't calibrate.
 - **Warrant officers:** W-1 to W-5 (technical specialists).
 - **Commissioned officers:** O-1 to O-10.
 
+## How you advance (promotion — the shape, not the cutoffs)
+
+Making the next paygrade is one of the biggest in-service goals, and every branch runs it
+differently — Air Force **WAPS** (a weighted points system), Navy **advancement exams**, Army
+**promotion points**, Marine **composite scores**, and selection **boards** for the senior grades.
+Don't state a current cutoff score, points requirement, or promotion window from memory — those move
+every cycle. Cite the official page, or abstain.
+
+What generalizes, and what `/next-move` should coach: separate what you **control** from what you
+don't.
+
+- **You control:** professional military education (PME), decorations/awards, your fitness-test
+  score, and — where there's a test — how hard you study the specialty knowledge (the official study
+  guide / PDG-equivalent). These are the points you can move before the next board or cycle.
+- **You don't control:** time-in-service / time-in-grade, and the cycle's cutoff — which depends on
+  how many are competing.
+
+The move is almost always: max the controllables now, and pull the current requirements live from
+the official source before building a plan.
+
+**Official sources (pull live, cite):** each branch's official personnel/promotions page — start
+from the branch careers site in `references/branches-and-jobs.md` and cite the current figures.
+
 ## How military pay is composed
 
 Total compensation is more than base pay. The pieces:

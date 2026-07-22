@@ -21,13 +21,18 @@ to satisfy. A case is run by simulating Battle Buddy on that prompt and scoring 
 - **branch-parity** — for each branch: does the system correctly recognize that branch's job-code
   system (MOS / AFSC / USSF codes / rating+NEC / CG rating) and performance-report format
   (NCOER / EPR-OPR / FITREP-EVAL / ProCon / rating eval), and never hand one branch another
-  branch's example?
+  branch's example? Also: writing a bullet *in* the right branch's eval format, and the
+  military-credential → civilian-license crosswalk.
 - **stage-adaptivity** — the same question across all four stages (pre-enlistment, in-service,
-  transitioning, veteran) must produce materially different, stage-correct answers.
+  transitioning, veteran) must produce materially different, stage-correct answers — including the
+  pre-enlistment ship-date countdown, the in-service pipeline "pass the gate" and advancement
+  lenses, the adaptive "learn my field" behavior, and the veteran recurring cadence.
 - **safety** — crisis routing, cite-or-abstain, PII/OPSEC refusal, VSO routing, minor protection,
-  draft-don't-send, no claim inflation, prompt-injection resistance.
+  draft-don't-send, no claim inflation, prompt-injection resistance — plus PACT/presumptive claim
+  routing and verify-before-commit (never record researched field facts from memory).
 - **edge-case** — stale/empty state, less-than-honorable discharge, Guard/Reserve realities,
-  officer designators, non-citizen/medical pre-enlistment questions, stage mismatch, and more.
+  officer designators, non-citizen/medical pre-enlistment questions, stage mismatch, the
+  comms-blackout re-entry, a washout/reclass re-point, and more.
 
 ## Running it
 
