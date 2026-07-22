@@ -14,8 +14,15 @@ don't decide each day, you just run the rhythm. `/level-up` helps you add to thi
 - `[ e.g. /aar on Sunday — what moved, what didn't, what changes ]`
 - `[ e.g. /level-up — find one repetitive task to shortcut ]`
 
+## Periodic (esp. once you're a veteran)
+
+- `[ e.g. monthly — claim-status check-in + scan for a benefit deadline (verify dates live) ]`
+- `[ e.g. yearly — full /benefits-check re-sweep ]`
+- `[ e.g. one standing community touchpoint — a veteran org or a mentor ]`
+
 ## At each milestone / stage change
 
-- `[ e.g. re-run /onboard when a date or situation changes ]`
+- `[ e.g. re-run /onboard when a date or situation changes (ship, PCS, reclass, separate) ]`
+- `[ e.g. before going dark (basic, deployment, no-contact school) — run the pre-blackout checklist; on return, re-point before resuming. See references/comms-blackout.md ]`
 
 **Last updated:** `[ ... ]`

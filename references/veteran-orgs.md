@@ -33,11 +33,23 @@ trained to do it right. Use one.
 - **SBA — Boots to Business** (veteran entrepreneurship): https://www.sba.gov/sba-learning-platform/boots-business
 - **VBOC (Veterans Business Outreach Centers):** https://www.sba.gov/local-assistance
 
-## Wellness & peer connection
+## Wellness, peer connection & reintegration
+
+The identity shift out of uniform and the pull to *keep serving* are real — a recurring community is
+part of landing, not a luxury. This is where a "veteran cadence" gets its community touchpoint.
 
 - **Team RWB** (Red, White & Blue) — fitness + community: https://www.teamrwb.org
 - **Team Rubicon** — disaster response, purpose after service: https://www.teamrubiconusa.org
 - **Veterans Crisis Line** — see `crisis-resources.md`.
+
+## Special-operations & specific communities
+
+Many career fields have their own transition and support networks — SOF is the clearest example
+(command warrior-care / care-coalition programs while still in, plus veteran-run SOF foundations
+after). These are exactly the kind of *field-specific* resource `/study-up` researches and records
+into a person's `situation/career-field.md` when they enter that world — verified against the
+official/organization source, not assumed. Start from the person's own community and branch, and
+cite what you find.
 
 ## How Battle Buddy uses this
 

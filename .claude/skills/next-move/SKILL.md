@@ -24,8 +24,20 @@ different species of thing at each stage.
 ### 1. Observe — read the real picture
 
 Read: `situation/stage.md`, `situation/about-me.md`, `situation/ground-truth.md`,
+`situation/career-field.md` (so the move speaks their actual field, not a generic one),
 `mission/objective.md`, `mission/tasks.md` (done ledger **first**, so you don't re-serve finished
-work), and `sustainment/` if relevant. Note the separation date if the stage is `transitioning`.
+work), and `sustainment/` if relevant. Note the **key date** in `stage.md` — a **ship date**
+(`pre-enlistment`) or a **separation date** (`transitioning`) both drive a backward countdown.
+
+**Re-entry / life-changed check:** if the picture is stale or the plan just changed, the move *is*
+re-pointing the system — say so to them, don't just note it. Cases:
+- **Stale files / a key date now in the past** (a ship date that's passed → they're in basic or
+  serving; a separation date that's passed → they're likely a veteran; a `Last updated` long ago):
+  welcome them back and tell them to run **`/onboard`** to re-point before anything else.
+- **They washed out, reclassed, or their field changed:** that's a real re-plan, not a failure to
+  gloss. Tell them to re-run **`/onboard`** and **`/study-up`** on the new field, so the record and
+  advice match who they actually are now. Be human first.
+Either way, the drafted next action is the re-point itself.
 
 ### 2. Orient — interpret it against their stage
 
@@ -33,17 +45,32 @@ This is the step that makes the answer good. Apply the stage lens:
 
 - **`pre-enlistment`:** the move is almost always *getting better information before a
   commitment* — a question to bring a recruiter, decoding a job code or contract term, ASVAB
-  prep. Never push toward signing. (`references/enlistment-path.md`, `branches-and-jobs.md`.)
+  prep. Never push toward signing. If they have a **ship date**, count down to it: DEP is prep time
+  (get in shape to the standard, lock contract details in writing, questions to still raise) and the
+  move is whichever prep window closes soonest. If they're aiming at a pipeline (special warfare,
+  aircrew, etc.), the move often lives in `situation/career-field.md` — run `/study-up` if it's thin.
+  (`references/enlistment-path.md`, `branches-and-jobs.md`.)
 - **`in-service`:** the move is *set up future-you* — the thing that's cheap now and expensive or
   impossible later. GI Bill transfer (must usually be done while serving), certs that map to a
   civilian field, saving, starting a degree, a SkillBridge plan. (`va-benefits-map.md`,
-  `transition-timeline.md`.)
+  `transition-timeline.md`.) **Two sub-contexts change the answer:**
+  - *In a demanding pipeline / tech school right now* (selection, A-school, a wash-out-risk course)?
+    Don't hand them "start a degree." The move is **pass the next gate, don't get hurt, recover** —
+    future-setup waits for the first duty station. Read `career-field.md` for their gates.
+  - *Chasing the next rank?* Advancement is a real move. Name what they **control** (PME, decorations,
+    a PT test, the specialty-knowledge study) vs. what they don't (time-in-service/grade). Point to
+    the official promotion page and cite any cutoff/points figure live — never state one from memory.
+    (`references/rank-and-pay.md`.)
 - **`transitioning`:** the move is *the next thing on the backward countdown from your separation
   date* — whichever time-boxed window closes soonest (TAP, SkillBridge, pre-discharge claim,
   health-care enrollment, DD-214 check). Verify the current window live. (`transition-timeline.md`.)
 - **`veteran`:** the move is *claim what you're owed and turn service into a civilian result* — a
   benefit left on the table, a claim to start with a free VSO, a résumé/LinkedIn translation, a
-  mentor match. (`va-benefits-map.md`, `veteran-orgs.md`, `translation-tables.md`.)
+  mentor match. (`va-benefits-map.md`, `veteran-orgs.md`, `translation-tables.md`.) Once the
+  transition scramble is over, the value goes *recurring, not one-shot* — a claim-status check-in, a
+  periodic benefits re-sweep, a community touchpoint (`comms/battle-rhythm.md`, the veteran cadence).
+  And name the quiet-hard part honestly (`references/voice.md`): the identity shift out of the
+  uniform and the seniority/pay reset are real — a settled result, not a failing.
 
 Then pick: what moves the mission most, what unlocks other things, and what are they avoiding
 because it's uncomfortable rather than unimportant?
