@@ -65,11 +65,11 @@ your SSN, DoD ID, or anything OPSEC-sensitive.
 | Command | What it does |
 |---|---|
 | `/onboard` | Sets up (or re-points) the system. Asks your stage first. Re-run it any time your situation changes. |
+| `/study-up` | Teaches the kit *your* world — job code, pipeline, certs, community. Researches official sources, confirms with you, records it cited. |
 | `/next-move` | One OODA cycle → your single next action. The daily driver. |
 | `/translate` | Military ↔ civilian, both directions. Record → résumé/LinkedIn/interview; or job posting → what they're really asking for. |
 | `/benefits-check` | A stage-aware sweep of what you may be eligible for, every line cited to an official source. |
 | `/aar` | An after-action review of your own setup — what's in place, what's missing, what to fix first. |
-| `/level-up` | Weekly: find one repetitive task and build a shortcut for it. |
 
 ## License & credit
 
