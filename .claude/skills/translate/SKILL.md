@@ -75,7 +75,11 @@ cycle. This runs the transform *in reverse* — from what they did into their **
 
 ## Guardrails
 
-- **Truth only.** Never invent a result, inflate a role, or claim a skill they don't have.
+- **Truth only.** Never invent a result, inflate a role, or claim a skill they don't have. This
+  includes *adding* a metric or a "how" the person didn't give you when translating a record to
+  civilian language — no "zero downtime," "no capability gaps," "zero delays," "through disciplined
+  X" unless it's in the source. If a bullet needs a number they didn't provide, leave a `[ bracket ]`
+  and ask; don't manufacture one to make the line land.
 - **Draft, don't send** — output is for their review (`CLAUDE.md`, rule 7).
 - **They approve every word.** Battle Buddy proposes; the person owns their story.
 - Match *their* voice for anything outward-facing (`situation/about-me.md`), not the coaching

@@ -35,17 +35,24 @@ Don't hand someone another branch's example. Then transform each bullet:
 4. **Name the transferable skill.** Leadership, logistics, operations, security, maintenance,
    analysis, training, project management.
 
+**Only what they gave you.** Re-encode the source bullet — never *add* a metric, a result, or a
+"how" the person didn't state. "Zero downtime," "no capability gaps," "zero delays," "through
+disciplined X" — if it isn't in what they told you, it doesn't go in the draft. If a bullet reads
+thin without a number, leave a `[ bracket ]` and ask them for the real one. A true bullet with a gap
+survives the interview; an invented metric fails the reference check (`CLAUDE.md`, rule 6).
+
 **Pattern (Air Force EPR):**
 > *Military:* "Supervised 1A8 mission-crew operations for [system], maintained full [readiness
 > metric] across [n] sorties."
-> *Civilian:* "Led a X-person technical team delivering real-time signals analysis; sustained
-> full operational readiness across N high-stakes missions with zero critical failures."
+> *Civilian:* "Led a [N]-person technical team delivering real-time signals analysis; sustained
+> [the readiness result they stated] across [N] high-stakes missions."
 
 **Pattern (Army NCOER):**
 > *Military:* "Supervised 12 Soldiers in daily motor-pool operations; maintained 98% equipment
 > readiness."
 > *Civilian:* "Led a 12-person maintenance team responsible for a vehicle fleet; sustained 98%
-> operational readiness through disciplined preventive-maintenance scheduling."
+> equipment readiness." *(Note: the source gives the 98% and the team size — so both stay. Don't
+> bolt on a method or a second metric the bullet didn't contain.)*
 
 **Pattern (Navy EVAL):**
 > *Military:* "Watch supervisor for shipboard network operations; zero security incidents across
