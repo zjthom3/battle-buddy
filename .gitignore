@@ -14,6 +14,12 @@
 # won't be tracked or pushed.
 evals/
 
+# Maintainer's private teaching/marketing kit — video curriculum, recording
+# scripts, student handout, and the distribution playbook. Kept local so it
+# never ships in a user clone and never goes public. Edit it freely; it just
+# won't be tracked or pushed.
+teaching/
+
 # Note on privacy: the situation/, mission/, sustainment/, and comms/ files
 # ship as BLANK templates and are tracked on purpose so the structure is
 # visible when you clone. Once /onboard fills them with your real service
